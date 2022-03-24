@@ -4,3 +4,10 @@
 Open Source at [Tacobyte 💙](https://github.com/Team-Tacobyte)
 
 TacoByte is a Technology Focused community. Our community focuses on Things such as, Game Development, Coding, Hacking and More. We also make Developer Tools.
+
+#
+Tacobyte [Discord](https://discord.gg/acPGzacTF5)
+
+Tacobyte [License](https://github.com/Team-Tacobyte/LICENSE/blob/main/LICENSE.md)
+
+Tacobyte [Website](https://tacobyte.dev)
